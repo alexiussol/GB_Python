@@ -1,3 +1,1 @@
 # GB_Python
-
-hello
